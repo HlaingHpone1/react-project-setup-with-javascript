@@ -34,7 +34,7 @@ const Router = () => {
           role: ["Admin", "User",]
         },
         {
-          path: "/network",
+          path: "/product",
           element: Product,
           role: ["Admin", "User",]
         },
